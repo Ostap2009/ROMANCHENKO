@@ -1,0 +1,45 @@
+body {
+	background-image: url(Fon_3.png);
+	background-repeat: no-repeat;
+	background-size: 30%;
+	background-position: center;
+	background-attachment: fixed;
+}
+.icon {
+	
+	margin-top: -100px;
+	margin-right: 100px;
+	float: right;
+}
+.insta:hover {
+	width: 60px;
+}
+.face:hover {
+	width: 60px;
+}
+.tvit:hover {
+	width: 60px;
+}
+.yout:hover {
+	width: 60px;
+}
+.fon-title {
+	margin-top: 40px;
+	margin-left: 120px;
+	font-size: 30px;
+	color: #8E8E8E;
+	line-height: 25px;
+}
+.title {
+	margin-top: 50px;
+	margin-left: 105px;
+}
+a {
+	text-decoration: none;
+	color: #8E8E8E;
+}
+a:hover {
+	color: #656161;
+}
+
+
