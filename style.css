@@ -2,7 +2,7 @@ body {
 	background-image: url(Fon_3.png);
 	background-repeat: no-repeat;
 	background-position: center center;
-	
+	background-attachment: fixed;
 }
 .icon {
 	
