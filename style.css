@@ -41,7 +41,7 @@ a {
 a:hover {
 	color: #656161;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1081px){
 body {
 	background-image: url(Fon_3.png);
 	background-repeat: no-repeat;
