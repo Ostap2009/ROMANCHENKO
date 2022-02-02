@@ -1,10 +1,12 @@
 body {
 	background-image: url(Fon_3.png);
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: center;
 	background-attachment: fixed;
 	background-size: 300px;
+
 }
+
 .icon {
 	
 	margin-top: -100px;
@@ -41,14 +43,5 @@ a {
 a:hover {
 	color: #656161;
 }
-@media screen and (max-width: 1081px){
-body {
-	background-image: url(Fon_3.png);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-attachment: fixed;
-	background-size: 100%;
-}
 
-}	
-
+	
